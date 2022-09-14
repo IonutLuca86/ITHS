@@ -1,0 +1,15 @@
+D:\ITHS\GitHub Repositories\It Takes Klass\bin\Debug\net6.0\It Takes Klass.exe
+D:\ITHS\GitHub Repositories\It Takes Klass\bin\Debug\net6.0\It Takes Klass.deps.json
+D:\ITHS\GitHub Repositories\It Takes Klass\bin\Debug\net6.0\It Takes Klass.runtimeconfig.json
+D:\ITHS\GitHub Repositories\It Takes Klass\bin\Debug\net6.0\It Takes Klass.dll
+D:\ITHS\GitHub Repositories\It Takes Klass\bin\Debug\net6.0\It Takes Klass.pdb
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.csproj.AssemblyReference.cache
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.AssemblyInfoInputs.cache
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.AssemblyInfo.cs
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.csproj.CoreCompileInputs.cache
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.dll
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\refint\It Takes Klass.dll
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.pdb
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\It Takes Klass.genruntimeconfig.cache
+D:\ITHS\GitHub Repositories\It Takes Klass\obj\Debug\net6.0\ref\It Takes Klass.dll

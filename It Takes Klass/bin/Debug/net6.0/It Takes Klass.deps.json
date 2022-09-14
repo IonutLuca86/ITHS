@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "It Takes Klass/1.0.0": {
+        "runtime": {
+          "It Takes Klass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "It Takes Klass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
