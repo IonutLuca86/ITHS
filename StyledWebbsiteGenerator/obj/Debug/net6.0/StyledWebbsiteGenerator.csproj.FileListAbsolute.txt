@@ -1,0 +1,15 @@
+D:\ITHS_repositories\StyledWebbsiteGenerator\bin\Debug\net6.0\StyledWebbsiteGenerator.exe
+D:\ITHS_repositories\StyledWebbsiteGenerator\bin\Debug\net6.0\StyledWebbsiteGenerator.deps.json
+D:\ITHS_repositories\StyledWebbsiteGenerator\bin\Debug\net6.0\StyledWebbsiteGenerator.runtimeconfig.json
+D:\ITHS_repositories\StyledWebbsiteGenerator\bin\Debug\net6.0\StyledWebbsiteGenerator.dll
+D:\ITHS_repositories\StyledWebbsiteGenerator\bin\Debug\net6.0\StyledWebbsiteGenerator.pdb
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.csproj.AssemblyReference.cache
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.AssemblyInfoInputs.cache
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.AssemblyInfo.cs
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.csproj.CoreCompileInputs.cache
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.dll
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\refint\StyledWebbsiteGenerator.dll
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.pdb
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\StyledWebbsiteGenerator.genruntimeconfig.cache
+D:\ITHS_repositories\StyledWebbsiteGenerator\obj\Debug\net6.0\ref\StyledWebbsiteGenerator.dll
