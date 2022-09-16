@@ -12,7 +12,7 @@ StyledWebsiteGenerator styledWebsite = new StyledWebsiteGenerator(className, mes
 
 
 
-
+styledWebsite.PrintWebsite();
 
         FileStream outputStream;
         StreamWriter writer;
@@ -33,7 +33,7 @@ StyledWebsiteGenerator styledWebsite = new StyledWebsiteGenerator(className, mes
         Console.SetOut(textWriter);
         writer.Close();
         outputStream.Close();
-        Console.WriteLine("Done");
+        Console.WriteLine("\n\nDone");
     
 
 
