@@ -1,0 +1,15 @@
+D:\ITHS\Programmering med C# - projekter\GruppArbete\bin\Debug\net6.0\GruppArbete.exe
+D:\ITHS\Programmering med C# - projekter\GruppArbete\bin\Debug\net6.0\GruppArbete.deps.json
+D:\ITHS\Programmering med C# - projekter\GruppArbete\bin\Debug\net6.0\GruppArbete.runtimeconfig.json
+D:\ITHS\Programmering med C# - projekter\GruppArbete\bin\Debug\net6.0\GruppArbete.dll
+D:\ITHS\Programmering med C# - projekter\GruppArbete\bin\Debug\net6.0\GruppArbete.pdb
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.csproj.AssemblyReference.cache
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.AssemblyInfoInputs.cache
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.AssemblyInfo.cs
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.csproj.CoreCompileInputs.cache
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.dll
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\refint\GruppArbete.dll
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.pdb
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\GruppArbete.genruntimeconfig.cache
+D:\ITHS\Programmering med C# - projekter\GruppArbete\obj\Debug\net6.0\ref\GruppArbete.dll
